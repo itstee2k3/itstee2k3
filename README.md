@@ -46,8 +46,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itstee2k3&layout=compact&theme=vision-friendly-dark"/></a>
 </div>
 <hr>
-<img src="gitartwork.svg"/>
-    
+
 <div align="center">
   <h2><mark>Don't worry about failure, you only have to be right once</mark></h2>
 </div>
